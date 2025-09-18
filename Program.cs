@@ -1,4 +1,6 @@
-﻿namespace TriangleAreaCalculator
+//triangle square
+
+namespace TriangleAreaCalculator
 {
     class Program
     {
